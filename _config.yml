@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ![Teste]("/img/avatar-icon.png")
+title: "Lucas E. O. Silva"
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -45,10 +45,10 @@ avatar: "/img/Lucas.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Lucas
-  email: "youremail@domain.com"
-  facebook: LucasEOSilva  # eg. daattali
-  github: yourname    # eg. daattali
+  name: Lucas E. O. Silva
+  email: "lucas.eosilva@usp.br"
+  facebook: pandorexona  # eg. daattali
+  github: lucaseosilva    # eg. daattali
   twitter: pandorexona   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -117,7 +117,7 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:day-:month-:year-:title/
 paginate: 5
 
 kramdown:
