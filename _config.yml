@@ -24,7 +24,9 @@ description: Welcome to the jungle!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
+  Publications: 
+      Journals: "publications"
+      Others: "teste"
   Projects: ""
   Databases: ""
 
