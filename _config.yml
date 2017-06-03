@@ -156,7 +156,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: 'aboutme'
+  rooturl: 'aboutme.md'
   media: 'img'
   ignore:
     - 404.html
