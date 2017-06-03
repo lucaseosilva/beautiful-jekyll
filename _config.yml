@@ -95,7 +95,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "aAV7F_AAAAAJ&hl"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -128,9 +128,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: ""
     values:
-      layout: "post"
+      layout: ""
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
