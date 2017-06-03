@@ -1,8 +1,8 @@
-Publications
-================
-
-Peer-Reviewed Journals
-----------------------
+---
+title: "Publications"
+subtitle: "Peer-Reviewed Journals"
+output: github_document
+---
 
 1. Does the reduction of criminal majority decrease violence? Evidence from a comparative study. Portuguese, *Opinião Pública*, 22(1), 118-139, 2016. With Rodrigo Lins and Dalson Figueiredo. [Link](http://www.scielo.br/pdf/op/v22n1/1807-0191-op-22-1-0118.pdf)
 
