@@ -30,8 +30,3 @@ Peer-Reviewed Journals
 
 1. Happy together: how to use factor analysis and cluster analysis to measure the quality of public policies. Portuguese, *Revista Teoria \& Sociedade*, 22(2), 123-152, 2014. With Dalson Figueiredo, Enivaldo Rocha, Ranulfo Paranhos, Mariana Batista, and Willber Nascimento. [Link](http://dcs.fafich.ufmg.br/~revistasociedade/index.php/rts/article/view/197/143)
 
-Book Chapter
-----------------------
-
-1. (2016). The map of administrative impropriety in Brazil (1992-2015). Portuguese. With Dalson Figueiredo and Renato Hayashi. In: Lídia de Oliveira Xavier and Carlos F. Domínguez Avila. (Ed.). *The quality of democracy in Brazil: theoretical and methodological questions of the research*, v.1, Editora CRV.
-
