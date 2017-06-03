@@ -1,5 +1,8 @@
-Publications
-================
+---
+title: "Publications"
+subtitle: "Conference papers"
+output: github_document
+---
 
 1.  The outlier that disrupts your sleep: how to identift extreme cases?. Portuguese, *10th Meeting of the Brazilian Association of Political Science (ABCP)*, Belo Horizonte, MG, Brazil, 2016. With Dalson Figueiredo. [Link](https://www.academia.edu/27367893/O_OUTLIER_QUE_PERTURBA_O_SEU_SONO_COMO_IDENTIFICAR_CASOS_EXTREMOS)
 
