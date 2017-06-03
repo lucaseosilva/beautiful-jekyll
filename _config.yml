@@ -17,7 +17,7 @@ baseurl: ""
 title: "Lucas E. O. Silva"
 
 # Short description of your site
-description: Welcome to the jungle!
+description: Welcome to my webpage!
 
 # --- Navigation bar options --- #
 
@@ -25,8 +25,8 @@ description: Welcome to the jungle!
 navbar-links:
   About Me: "aboutme"
   Publications: 
-      Journals: "publications"
-      Others: "teste"
+      - Journals: "publications"
+      - Chpeters: "chapters"
   Projects: ""
   Databases: ""
 
