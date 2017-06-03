@@ -25,8 +25,9 @@ description: Welcome to my webpage!
 navbar-links:
   About Me: "aboutme"
   Publications: 
-      - Journals: "publications"
-      - Chpeters: "chapters"
+      - Journals: "journals"
+      - Chapters: "chapters"
+      - Conferece papers: "conferece"
   Projects: ""
   Databases: ""
 
