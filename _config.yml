@@ -27,7 +27,8 @@ navbar-links:
   Publications: 
       - Journals: "journals"
       - Chapters: "chapters"
-      - Conferece papers: "conferece"
+      - Book review: "review"
+      - Conferece papers: "conference"
   Projects: ""
   Databases: ""
 
